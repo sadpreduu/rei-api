@@ -8,6 +8,7 @@ public class ReiApiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ReiApiApplication.class, args);
+		
 	}
 
 }
